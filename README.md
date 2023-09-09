@@ -3,7 +3,7 @@
 Criando uma API mínima com o ASP.NET Core
 
 
-## Tabela de Conteúdos
+## Conteúdos
 
 - O novo template do ASP.NET
 - Entity Framework Core
